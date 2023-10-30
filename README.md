@@ -31,4 +31,8 @@ The first thing you need to do is run the command `terraform init`. This command
 
 <br/>
 
-<img src="">
+<img src="https://github.com/aquynh1682/terraform-create-vmware/blob/main/terraform-running.png">
+
+<br/>
+
+<img src="https://github.com/aquynh1682/terraform-create-vmware/blob/main/terraform-complete.png">
