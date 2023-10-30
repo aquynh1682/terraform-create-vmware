@@ -1,0 +1,28 @@
+[
+    {
+        "name_vm": "windows-terraform-01",
+        "memory": 8192,
+        "cpu": 4,
+        "ip_address": "172.16.68.170",
+        "subnet": 24,
+        "gateway": "172.16.68.1",
+        "host_name": "windows-01",
+        "domain": "example.com",
+        "admin_pass": "123456a@",
+        "dns1": "8.8.8.8",
+        "dns2": "8.8.4.4"
+    },
+    {
+        "name_vm": "windows-terraform-02",
+        "memory": 16384,
+        "cpu": 8,
+        "ip_address": "172.16.68.171",
+        "subnet": 24,
+        "gateway": "172.16.68.1",
+        "host_name": "windows-02",
+        "domain": "example.com",
+        "admin_pass": "123456a@",
+        "dns1": "8.8.8.8",
+        "dns2": "8.8.4.4"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "name_vm": "centos-terraform-01",
+        "memory": 8192,
+        "cpu": 4,
+        "ip_address": "",
+        "subnet": 24,
+        "gateway": "",
+        "host_name": "linux-01",
+        "domain": "example.com",
+        "dns": "8.8.8.8"
+    },
+    {
+        "name_vm": "linux-terraform-02",
+        "memory": 8192,
+        "cpu": 4,
+        "ip_address": "",
+        "subnet": 24,
+        "gateway": "",
+        "host_name": "linux-02",
+        "domain": "example.com",
+        "dns": "8.8.8.8"
+    }
+]
