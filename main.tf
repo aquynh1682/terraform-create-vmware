@@ -72,8 +72,8 @@ data "vsphere_virtual_machine" "template" {
 # 			network_interface {
 # 				ipv4_address = local.vm_configs[count.index].ip_address
 # 				ipv4_netmask = local.vm_configs[count.index].subnet
-# 				dns_server_list = [local.vm_configs[count.index].dns]
 # 			}
+#			dns_server_list = [local.vm_configs[count.index].dns]
 # 			ipv4_gateway = local.vm_configs[count.index].gateway
 # 		}
 # 	}
